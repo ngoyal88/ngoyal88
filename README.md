@@ -50,11 +50,10 @@
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      [![GitHub Streak](https://streak-stats.demolab.com?user=ngoyal88&theme=react&date_format=j%2Fn%5B%2FY%5D&card_width=390&card_height=200&border=61DAFB)](https://git.io/streak-stats)
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ngoyal88&theme=react&date_format=j%2Fn%5B%2FY%5D&card_width=390&card_height=200&border=61DAFB" alt="GitHub Streak" />
     </a>
     <a href="https://github.com/ngoyal88/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoyal88&hide=c%23,Jupyter-Notebook,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoyal88&hide=upyter%20Notebook&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
   <br>
