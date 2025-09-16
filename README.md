@@ -9,15 +9,17 @@
 </h5>
 <br>
 <p>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  🔭 I’m currently working on <b>IntervueAI</b>, an AI-powered real-time mock interview platform  
   <br>
-  💻 I love writing code and learn anythings about it
+  🌱 I’m learning more about <b>LLMs, cloud deployment, and system design</b>  
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
+  👯 Open to collaborating on <b>AI/ML and full-stack projects</b>  
   <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+  💬 Ask me about <b>Machine Learning, NLP, and Competitive Programming</b>  
   <br>
-  📫 How to reach me: <a href="mailto: goyalnikhil883@gmail.com">goyalnikhil883@gmail.com</a>
+  📫 Reach me at: <a href="mailto:goyalnikhil883@gmail.com">goyalnikhil883@gmail.com</a> | 
+  <a href="https://www.linkedin.com/in/ngoyal88/">LinkedIn</a> | 
+  <a href="https://github.com/ngoyal88">GitHub</a>  
 </p>
 
 <hr>
@@ -49,13 +51,14 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
-  <div align=center>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ngoyal88&theme=react&date_format=j%2Fn%5B%2FY%5D&card_width=390&card_height=200&border=61DAFB" alt="GitHub Streak" />
-    </a>
-    <a href="https://github.com/ngoyal88/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoyal88&hide=upyter%20Notebook&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=ngoyal88&theme=react&date_format=j%2Fn%5B%2FY%5D&card_width=390&card_height=200&border_color=61DAFB" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/ngoyal88/github-readme-stats">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoyal88&hide=Jupyter%20Notebook&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+  </a>
+</div>
   <br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ngoyal88&theme=react-dark&bg_color=20232a&hide_border=true&days=90" width="100%"/>
@@ -66,7 +69,7 @@
 <br>
 <p align=center>
   <div align=center>
-    <a href="">
+    <a href="https://leetcode.com/u/ngoyal88/">
        <img  align=center flex-grow=1 src="https://leetcard.jacoblin.cool/ngoyal88?theme=dark&font=Nunito&ext=heatmap" />
     </a>
   </div>
@@ -74,25 +77,3 @@
 <h4 align="center">
   <a href="https://github.com/ngoyal88?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
 </h4>
-
-
-<!--
-**zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
-
-![Metrics](https://metrics.lecoq.io/zumrudu-anka?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
-
--->
