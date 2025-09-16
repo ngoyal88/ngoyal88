@@ -5,16 +5,10 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/ngoyal88/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.leetcode.com/u/ngoyal88" title="Leetcode Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/goyalnikhil.883/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  Final Year Student at Thapar Institute of Engineering and Technology, Patiala
 </h5>
 <br>
-<p align="center">
-  Final Year Student at Thapar Institute of Engineering and Technology, Patiala
-  <br>
-  <br>
+<p>
   🎓 I graduated from Erzurum İbrahim Hakkı Science High School
   <br>
   💻 I love writing code and learn anythings about it
@@ -27,7 +21,7 @@
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Languages & Tools 🔥</h2>
 <br>
 <p align="center">
   <code><img title="C" height="30" src="images/C.svg"></code>
@@ -56,21 +50,28 @@
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=ngoyal88&theme=react&border=61dafb&hide_border=true" alt="ngoyal88" />
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      [![GitHub Streak](https://streak-stats.demolab.com?user=ngoyal88&theme=react&date_format=j%2Fn%5B%2FY%5D&card_width=390&card_height=200&border=61DAFB)](https://git.io/streak-stats)
     </a>
     <a href="https://github.com/ngoyal88/github-readme-stats">
       <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoyal88&hide=c%23,Jupyter-Notebook,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
-
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ngoyal88&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ngoyal88&theme=react-dark&bg_color=20232a&hide_border=true&days=90" width="100%"/>
 </p>
 
 <hr>
-
+<h2 align="center">🔥 Leetcode Stats 🔥</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="">
+       <img  align=center flex-grow=1 src="https://leetcard.jacoblin.cool/ngoyal88?theme=dark&font=Nunito&ext=heatmap" />
+    </a>
+  </div>
+</p>
 <h4 align="center">
   <a href="https://github.com/ngoyal88?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
 </h4>
