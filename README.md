@@ -53,15 +53,15 @@
 <p align=center>
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=ngoyal88&theme=react&date_format=j%2Fn%5B%2FY%5D&card_width=390&card_height=200&border_color=61DAFB" alt="GitHub Streak" />
+    <img width="48%" src="https://streak-stats.demolab.com?user=ngoyal88&theme=react&date_format=j%2Fn%5B%2FY%5D&border_color=61DAFB" alt="GitHub Streak" />
   </a>
   <a href="https://github.com/ngoyal88/github-readme-stats">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoyal88&hide=Jupyter%20Notebook&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoyal88&hide=Jupyter%20Notebook&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
   </a>
 </div>
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ngoyal88&theme=react-dark&bg_color=20232a&hide_border=true&days=90" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ngoyal88&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <hr>
