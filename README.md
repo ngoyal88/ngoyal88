@@ -53,7 +53,7 @@
 <p align=center>
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img width="48%" src="https://streak-stats.demolab.com?user=ngoyal88&theme=react&date_format=j%2Fn%5B%2FY%5D&border_color=61dafb" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=ngoyal88&theme=react&date_format=j%2Fn%5B%2FY%5D&border=61DAFB&cache_seconds=86400" alt="GitHub Streak" >
   </a>
   <a href="https://github.com/ngoyal88/github-readme-stats">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoyal88&hide=Jupyter%20Notebook&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
